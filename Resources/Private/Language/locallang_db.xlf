@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-07-30T15:19:07Z" product-name="static_info_tables_ko">
+		<header/>
+		<body>
+			<trans-unit id="static_countries_item.cn_official_name_ko" xml:space="preserve">
+				<source>Official name (KO):</source>
+			</trans-unit>
+			<trans-unit id="static_countries_item.cn_short_ko" xml:space="preserve">
+				<source>Short name (KO):</source>
+			</trans-unit>
+			<trans-unit id="static_languages_item.lg_name_ko" xml:space="preserve">
+				<source>Name (KO):</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

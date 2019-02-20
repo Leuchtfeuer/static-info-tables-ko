@@ -1,0 +1,21 @@
+config.tx_extbase {
+    persistence {
+        classes {
+            SJBR\StaticInfoTables\Domain\Model\Country {
+                mapping {
+                    columns {
+                        cn_short_ko.mapOnProperty = shortNameKo
+                    }
+                }
+            }
+
+            SJBR\StaticInfoTables\Domain\Model\Language {
+                mapping {
+                    columns {
+                        lg_name_ko.mapOnProperty = nameKo
+                    }
+                }
+            }
+        }
+    }
+}
