@@ -4,6 +4,9 @@ namespace SJBR\StaticInfoTables\Domain\Model;
 
 class Language extends AbstractEntity
 {
+    /**
+    * @var string
+    */
     protected $nameKo = '';
 
     public function getNameKo(): string
