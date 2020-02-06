@@ -9,12 +9,18 @@ class Language extends AbstractEntity
     */
     protected $nameKo = '';
 
+    /**
+     * @return string
+     */
     public function getNameKo(): string
     {
         return $this->nameKo;
     }
 
-    public function setNameKo(string $nameKo): void
+    /**
+     * @param string $nameKo
+     */
+    public function setNameKo(string $nameKo)
     {
         $this->nameKo = $nameKo;
     }
