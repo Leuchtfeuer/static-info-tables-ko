@@ -1,5 +1,5 @@
 <?php
-declare(strict_types=1);
+declare(strict_types = 1);
 namespace Bitmotion\StaticInfoTablesKo;
 
 use SJBR\StaticInfoTables\Cache\ClassCacheManager;
