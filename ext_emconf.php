@@ -16,7 +16,7 @@ $EM_CONF['static_info_tables_ko'] = [
         'depends' => [
             'typo3' => '8.7.0-10.2.99',
             'php' => '7.0.0-7.4.99',
-            'static_info_tables' => '6.7.0-6.7.99',
+            'static_info_tables' => '6.7.0-6.9.99',
         ],
         'conflicts' => [],
         'suggests' => [],
