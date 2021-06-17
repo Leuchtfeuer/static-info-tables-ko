@@ -1,7 +1,7 @@
 # ***************************************************************************************
 # Translate currency labels in suggestions
 # ***************************************************************************************
-[language = *ko*]
+[siteLanguage("twoLetterIsoCode") == "ko"]
     TCEFORM.sys_language.static_lang_isocode.suggest.default.additionalSearchFields = lg_name_ko
     TCEFORM.sys_language.static_lang_isocode.suggest.default.orderBy = lg_name_ko
     TCEFORM.static_countries.cn_currency_uid.suggest.default.additionalSearchFields = cu_name_ko
