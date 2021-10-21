@@ -8,7 +8,7 @@ declare(strict_types=1);
  * For the full copyright and license information, please read the
  * LICENSE.txt file that was distributed with this source code.
  *
- * Florian Wessels <f.wessels@Leuchtfeuer.com>, Leuchtfeuer Digital Marketing
+ * Max Rösch <m.roesch@Leuchtfeuer.com>, Leuchtfeuer Digital Marketing
  */
 
 return [
@@ -24,7 +24,7 @@ return [
         'tableName' => 'static_languages',
         'properties' => [
             'nameKo' => [
-                'fieldName' => 'cu_name_ko',
+                'fieldName' => 'lg_name_ko',
             ],
         ],
     ],
